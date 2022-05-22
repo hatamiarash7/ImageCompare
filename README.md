@@ -10,7 +10,10 @@ The two images may look similar, but there are small differences that are diffic
 
 ![result](.github/res.jpg)
 
-You can [see an example](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) in real world about spy chips.
+You can see an example in real world about spy chips :
+
+- [The Big hack](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)
+- [China Spying Server Chips](https://thehackernews.com/2018/10/china-spying-server-chips.html)
 
 ## Usage
 
