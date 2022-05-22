@@ -1,5 +1,7 @@
 # Image Compare
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 This is a simple script to show differences of two images. This method can be best used in detecting industrial sabotage and examining X-ray images of equipments.
 
 You can see below that we have two similar photos that are very difficult to distinguish.
