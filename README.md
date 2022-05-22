@@ -8,7 +8,7 @@ You can see below that we have two similar photos that are very difficult to dis
 
 The two images may look similar, but there are small differences that are difficult to distinguish (in this example, two malicious / extra chips are mounted on the second board).
 
-![result](.github/result.jpg)
+![result](.github/res.jpg)
 
 You can [see an example](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) in real world about spy chips.
 
